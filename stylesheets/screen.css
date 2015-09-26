@@ -371,7 +371,7 @@ body {
 }
 
 a, a:hover {
-  color: #417090;
+  color: ##419045;
 }
 
 a {
@@ -384,7 +384,7 @@ a:hover {
 
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', Myriad, Calibri, sans-serif;
-  font-weight: bold;
+  font-weight: bold, italic;
 }
 
 p {
@@ -526,7 +526,7 @@ dd p:first-child {
 }
 
 .header-level-1 {
-  font-size: 1.85em;
+  font-size: 2.85em;
   border-bottom: .2em double #d3ccc1;
   color: #7c334f;
   text-align: center;
@@ -563,7 +563,7 @@ dd p:first-child {
 }
 
 .header-level-6 {
-  margin: .8em 0;
-  font-size: .85em;
+  margin: 1.5em 0;
+  font-size: .35em;
   font-style: italic;
 }
